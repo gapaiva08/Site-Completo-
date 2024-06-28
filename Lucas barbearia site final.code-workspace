@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../TCC"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TCC"
+	}
+}
